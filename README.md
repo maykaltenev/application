@@ -8,8 +8,8 @@ le katastrophe
 
 ## Adding a new line here, just to check
 
-I am the last version
-add i am making a conflict again on line 12
+I am the last version <br>
+add a new version
 
 -- if i accept the current change the update from pull will be lost
 -- if i accept the incoming change the job i did before the pull will be lost
