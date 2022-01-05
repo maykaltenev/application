@@ -16,3 +16,7 @@ add a new version
 -- if i accept the both changes the both will be saved, but i will have remember where was the update and where was the last version of mine
 
 ## good job so far with making conflicts
+
+fbd,blö,
+fly fly
+:smile: xoxo
