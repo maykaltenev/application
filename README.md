@@ -15,4 +15,6 @@ add a new version
 -- if i accept the incoming change the job i did before the pull will be lost
 -- if i accept the both changes the both will be saved, but i will have remember where was the update and where was the last version of mine
 
-18181818 nice number for conflicts
+## good job so far with making conflicts
+
+We :metal: :rocket: good flow.
